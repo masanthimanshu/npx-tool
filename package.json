@@ -1,6 +1,14 @@
 {
   "name": "uxdlab-create-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "keywords": [
+    "create-react-app",
+    "uxdlab",
+    "react",
+    "firebase",
+    "material-ui",
+    "react-firebase-mui starter"
+  ],
   "bin": {
     "uxdlab-create-react": "./index.js"
   },
